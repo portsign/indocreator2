@@ -24,9 +24,9 @@
 					<div class="home_blog_box home_blog_box_full home_blog_box_only">
 						<div class="feat_item">
 							<?php if(get_post_meta( get_the_ID(), 'page_featured_type', true ) == 'youtube') { ?>
-								<iframe width="900" height="500" src="http://www.youtube.com/embed/<?php echo get_post_meta( get_the_ID(), 'page_video_id', true ); ?>" frameborder="0" allowfullscreen></iframe>
+								<iframe width="900" height="500" src="https://www.youtube.com/embed/<?php echo get_post_meta( get_the_ID(), 'page_video_id', true ); ?>" frameborder="0" allowfullscreen></iframe>
 							<?php } elseif(get_post_meta( get_the_ID(), 'page_featured_type', true ) == 'vimeo') { ?>
-								<iframe src="http://player.vimeo.com/video/<?php echo get_post_meta( get_the_ID(), 'page_video_id', true ); ?>?title=0&amp;byline=0&amp;portrait=0&amp;color=03b3fc" width="1180" height="492" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+								<iframe src="https://player.vimeo.com/video/<?php echo get_post_meta( get_the_ID(), 'page_video_id', true ); ?>?title=0&amp;byline=0&amp;portrait=0&amp;color=03b3fc" width="1180" height="492" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 							<?php } else { ?>
 								<a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('modern-blog'); ?></a>
 							<?php } ?>
