@@ -11,7 +11,7 @@
 			<div class="slide_box slide_box_first slide_0" >
 			
 								
-					<img width="1180" height="492" src="http://indocreator.local/wp-content/uploads/2016/03/slider2.jpg" class="attachment-slide-image wp-post-image" alt="pexels-photo">
+					<img width="1180" height="492" src="https://indocreator.co.id/wp-content/uploads/2016/03/slider2.jpg" class="attachment-slide-image wp-post-image" alt="pexels-photo">
 					
 				
 			</div>
@@ -19,14 +19,14 @@
 			<div class="slide_box  slide_1" >
 			
 								
-					<img width="1180" height="492" src="http://indocreator.local/wp-content/uploads/2016/03/slider1.jpg" class="attachment-slide-image wp-post-image" alt="hands-people-woman-working">
+					<img width="1180" height="492" src="https://indocreator.co.id/wp-content/uploads/2016/03/slider1.jpg" class="attachment-slide-image wp-post-image" alt="hands-people-woman-working">
 				
 				
 			</div>
 						                        
 			<div class="slide_box  slide_2">
 			
-					<img width="1180" height="492" src="http://indocreator.local/wp-content/uploads/2016/03/slider3.jpg" class="attachment-slide-image wp-post-image" alt="red-hands-woman-creative">
+					<img width="1180" height="492" src="https://indocreator.co.id/wp-content/uploads/2016/03/slider3_2.jpg" class="attachment-slide-image wp-post-image" alt="red-hands-woman-creative">
 					
 				
 			</div>
