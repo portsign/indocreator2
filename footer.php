@@ -21,7 +21,7 @@
 <div class="footer_copyright_cont">
 <div class="footer_copyright">
 	<div class="container">
-		© 2015 All Rights Reserved. Developed by <a href="https://dessign.net">Dessign.net</a></div>
+		© <a href="https://indocreator.co.id/">IndoCreator</a> 2015 All Rights Reserved.</div>
 		<div class="clear"></div>
 	</div><!--//container-->
 </div><!--//footer_copyright-->

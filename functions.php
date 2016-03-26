@@ -12,7 +12,6 @@ if (function_exists('add_theme_support')) {
     add_image_size('neue-home-post',555,350,true);
 	add_image_size('slide-image',1180,492,true);
 	
-	
 
 }
 function get_category_id($cat_name){
@@ -22,11 +21,11 @@ function get_category_id($cat_name){
 function ds_get_excerpt($num_chars) {
     $temp_str = substr(strip_shortcodes(strip_tags(get_the_content())),0,$num_chars);
     $temp_parts = explode(" ",$temp_str);
-    $temp_parts[(count($temp_parts) - 1)] = '';
+    // $temp_parts[(count($temp_parts) - 1)] = '';
     
-    if(strlen(strip_tags(get_the_content())) > 125)
-      return implode(" ",$temp_parts) . '...';
-    else
+    // if(strlen(strip_tags(get_the_content())) > 125)
+    //   return implode(" ",$temp_parts) . '...';
+    // else
       return implode(" ",$temp_parts);
 }
 if ( function_exists('register_sidebar') ) {
