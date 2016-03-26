@@ -4,8 +4,8 @@
 	
 
 	<div id="slideshow_cont">
-		<img src="http://dessign.net/responsivebusinesstheme/wp-content/themes/ResponsiveBusinessTheme/images/slide-prev.png" alt="prev" class="slide_prev">
-		<img src="http://dessign.net/responsivebusinesstheme/wp-content/themes/ResponsiveBusinessTheme/images/slide-next.png" alt="next" class="slide_next">
+		<img src="https://indocreator.co.id/wp-content/uploads/2016/03/slide-prev.png" alt="prev" class="slide_prev">
+		<img src="https://indocreator.co.id/wp-content/uploads/2016/03/slide-next.png" alt="next" class="slide_next">
 		
 		                        
 			<div class="slide_box slide_box_first slide_0" >
