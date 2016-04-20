@@ -259,7 +259,17 @@ h3.side_title { margin: 0 0 15px; font-size: 17px; font-weight: normal; }
 .footer_bottom_box { margin-top: 25px; }
 .widget_top { margin-bottom: 60px; /*float: left;*/ }
 .wid_box_col { float: left; width: 30%; margin-right: 3%; }
-.wid_box_col h3 { font-size: 17px; font-family: 'Lato', sans-serif; letter-spacing: 1px; font-weight:700; line-height: 130%; color: #222; text-transform: uppercase;}
+.wid_box_col h3 { 
+    font-size: 17px;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
+    font-weight: 700;
+    line-height: 130%;
+    color: #222;
+    text-transform: uppercase;
+    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 8px;
+}
 .wid_box_col .textwidget { font-size: 15px; font-family: 'Lato', sans-serif; letter-spacing: 1px; font-weight:400; line-height: 150%; color: #222; }
 .wid_box { margin: 45px 0; text-align: center; }
 .wid_box_col_last { margin-right: 0; margin-left:10px; }
