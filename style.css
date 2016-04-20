@@ -108,7 +108,7 @@ aside, nav, article, figure {
 .logo_cont img { max-width: 100%; height: auto; }
 .header_right_text { float: right; width: 300px; padding-bottom: 10px; }
 .header_spacing { display: block; min-height: 67px; }
-#header { background: #fff; /*position: fixed; top: 0; left: 0;*/ padding: 15px 0 0; width: 100%; z-index: 9999; }
+#header { background: #fff; /*position: fixed; top: 0; left: 0;*/ padding: 15px 0 0; width: 100%; z-index: 9999;     border-bottom: 1px solid #dfdfdf; }
 .logo { /*float: left; margin-right: 55px;*/ }
 .header_bottom { padding: 5px 0; }
 .header_menu { float: left; margin-top: 0px; max-width: 800px; }
@@ -137,7 +137,7 @@ aside, nav, article, figure {
 #slideshow_cont {  width: 1180px; height: 492px; position: relative; margin-bottom: 30px; }
 .slide_box { display: none; position: absolute; top: 0; left: 0; }
 .slide_box_first { display: block; }
-.slide_box img, .slide_box iframe { width: 1180px; height: 492px;  }
+.slide_box img, .slide_box iframe { width: 1180px; height: 492px; border: 5px solid #888;  }
 .slide_prev, .slide_next { position: absolute; top: 50%; margin-top: -20px; z-index: 50; cursor: pointer; }
 .slide_prev { left: 0; }
 .slide_next { right: 0; }
@@ -216,7 +216,7 @@ aside, nav, article, figure {
 .sy-caption-wrap .sy-caption { display: none !important; }
 #single_cont { }
 .single_full_cont { }
-.single_left { width: 900px; font-size: 16px; font-family: 'Lato', sans-serif; letter-spacing: 1.5px; font-weight:400; line-height: 150%; color: #333; position: relative; margin: 0 auto; }
+.single_left { font-size: 16px; font-family: 'Lato', sans-serif; letter-spacing: 1.5px; font-weight:400; line-height: 150%; color: #333; position: relative; margin: 0 auto; }
 .single_left img { max-width: 100%; height: auto; }
 .single_left p { margin-bottom: 15px; }
 .single_left a { text-decoration: underline; }
