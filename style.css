@@ -75,7 +75,7 @@ a img.aligncenter {
 }
 /* Global */
 body, div { margin: 0; padding: 0; }
-body { font-size: 14px; font-family: 'Lato', sans-serif; font-weight: 400; color: #222; line-height: 140%; background-color: #fafafa;}
+body { font-size: 14px; font-family: 'Lato', sans-serif; font-weight: 400; color: #222; line-height: 140%; background-color: #FFF;}
 input { font-family: 'Lato', sans-serif; }
 a {color: #333; text-decoration: none; transition: background 0.3s ease 0s, color 0.3s ease 0s; }
 a:hover { color: #666; text-decoration: none; }
