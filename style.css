@@ -105,7 +105,7 @@ aside, nav, article, figure {
 .logo_cont { float: left; max-width: 250px; margin-right: 25px; }
 .full_logo_cont { padding: 0px 0 15px;  float: left; }
 .full_logo_cont img,
-.logo_cont img { max-width: 100%; height: auto; }
+.logo_cont img { max-width: 70%; height: auto; }
 .header_right_text { float: right; width: 300px; padding-bottom: 10px; }
 .header_spacing { display: block; min-height: 67px; }
 #header { background: #fff; /*position: fixed; top: 0; left: 0;*/ padding: 15px 0 0; width: 100%; z-index: 9999;     border-bottom: 1px solid #dfdfdf; }
