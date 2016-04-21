@@ -304,3 +304,8 @@ form p input {
 .current-menu-item a {
 	background-color: #DFDFDE;	
 }
+.wpcf7-form-control {
+    padding: 10px!important;
+    width: 100%!important;
+    border: 1px solid #CCCCCC!important;
+}
