@@ -21,7 +21,7 @@
 <div class="footer_copyright_cont">
 <div class="footer_copyright">
 	<div class="container">
-		© <a href="https://indocreator.co.id/">IndoCreator</a> 2015 All Rights Reserved.</div>
+		© <a href="https://indocreator.co.id/">IndoCreator</a> 2016 All Rights Reserved.</div>
 		<div class="clear"></div>
 	</div><!--//container-->
 </div><!--//footer_copyright-->
