@@ -4,6 +4,7 @@
 	<meta charset="utf-8" />
 	<title><?php wp_title('&laquo;', true, 'right'); ?> <?php bloginfo('name'); ?></title> 
 	<?php wp_head(); ?>
+	<meta name="google-site-verification" content="hKuOXpc3ioyP3K8wws9XvCSGm2nFdGlS6gHKM_Bodpk" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,200' rel='stylesheet' type='text/css' />
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
