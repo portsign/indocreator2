@@ -309,3 +309,10 @@ form p input {
     width: 100%!important;
     border: 1px solid #CCCCCC!important;
 }
+p input.wpcf7-form-control.wpcf7-submit {
+    padding: 7px !important;
+    width: 60px !important;
+    background-color: #3A84BA;
+    color: #FFF !important;
+    cursor: pointer;
+}
