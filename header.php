@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
-	<title><?php wp_title('&laquo;', true, 'right'); ?> <?php bloginfo('name'); ?></title> 
+	<title><?php wp_title('&laquo;', true, 'right'); ?></title> 
 	<?php wp_head(); ?>
 	<meta name="google-site-verification" content="hKuOXpc3ioyP3K8wws9XvCSGm2nFdGlS6gHKM_Bodpk" />
 	<script>
