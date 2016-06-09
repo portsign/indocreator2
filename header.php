@@ -26,6 +26,7 @@
 	<![endif]-->
 	<link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/mobile.css" type="text/css" media="screen" title="no title" charset="utf-8"/>
 	<link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/slicknav.css" />
+	<link rel="icon" type="image/png" href="https://indocreator.co.id/wp-content/uploads/2016/06/LOGO_IC_BARU_FAVICON.png" />
 	<script src="<?php bloginfo('stylesheet_directory'); ?>/js/jquery-2.1.1.min.js"></script>
 <!--	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>-->
 	<script src="<?php bloginfo('stylesheet_directory'); ?>/js/jquery.infinitescroll.js"></script>
